@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
+URL = "https://mit.edu"
+name = "mit"
+weight = "1"
+[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
